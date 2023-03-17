@@ -1,5 +1,5 @@
-# typescript
-My TypeScript Universe Homepage
+# Thada's Typescript Homepage
+A curated list of my open source TypeScript Projects
 
 ## Books
 - [TypeScript Thai Books](https://github.com/mildronize/typescript-th) - [คู่มือ TypeScript สำหรับคนไทย](https://typescript-th.thadaw.com/)
