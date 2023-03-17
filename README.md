@@ -22,9 +22,14 @@ A curated list of my open source TypeScript Projects
 ### GitHub Actions Tools
 - [Github Actions Analyzer](https://github.com/mildronize/github-actions-analyzer) - Github Actions Analyzer, support multiple repositories Analysis
 
+## Azure
+- [Azure Toolset](https://github.com/dotnetthailand/azure-tools) - Azure App Service Toolset e.g. `set-github-secrets`, `set-deploy-slot` and `set-publish-profile-to-yaml`.
+
 ## React
 - [My Blog](https://github.com/mildronize/mildronize.github.io) Using Gatsby (https://thadaw.com/)
 - [My Next Blog](https://github.com/mildronize/blog-next) Next.js Blog and Site
+- [.NET Thailand website](https://github.com/dotnetthailand/dotnetthailand.github.io) - Maintainer of .NET Thailand website, using Gatsby
+- [minimal-portfolio](https://github.com/dotnetthailand/minimal-portfolio) - Minimal Gatsby Theme for creating developer portfolio.
 - [React TypeScript Guide Book](https://github.com/mildronize/react-typescript-guidebook) - React in action that provides content related to React, Redux (Redux Toolkits), TypeScript
 - [React Cookbook](https://github.com/mildronize/react-cookbook) My React cookbook
 
