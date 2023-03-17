@@ -14,6 +14,10 @@ My TypeScript Universe Homepage
 
 ## GitHub Actions
 - [Safely Swap Azure App Service Slot](https://github.com/mildronize/actions-az-webapp-swap) - GitHub Actions for Safely Swap Azure App Service Slot
+- [actions-get-secret-sops](https://github.com/mildronize/actions-get-secret-sops) - Simple GitHub Action get secret with specific key from encrypted SOPS yaml file
+- [Azure CLI Toolset](https://github.com/mildronize/actions-az-cli) - Azure CLI Toolset on GitHub Actions 
+- [GitHub Action yq](https://github.com/mildronize/actions-yq-secret) - GitHub Action yq wrapper for hiding secrets
+- [Get Azure Credential](https://github.com/mildronize/actions-get-azure-credential) - GitHub Action Helper to extract Azure Service Principal from secrets
 
 ### GitHub Actions Tools
 - [Github Actions Analyzer](https://github.com/mildronize/github-actions-analyzer) - Github Actions Analyzer, support multiple repositories Analysis
@@ -21,6 +25,7 @@ My TypeScript Universe Homepage
 ## React
 - [My Blog](https://github.com/mildronize/mildronize.github.io) Using Gatsby (https://thadaw.com/)
 - [My Next Blog](https://github.com/mildronize/blog-next) Next.js Blog and Site
+- [React TypeScript Guide Book](https://github.com/mildronize/react-typescript-guidebook) - React in action that provides content related to React, Redux (Redux Toolkits), TypeScript
 - [React Cookbook](https://github.com/mildronize/react-cookbook) My React cookbook
 
 ## Archived Projects (Readonly)
